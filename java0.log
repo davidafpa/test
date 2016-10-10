@@ -8,3 +8,6 @@ juil. 11, 2016 7:30:17 PM net.sourceforge.ganttproject.GPLogger log
 INFOS: [GanttOptions] save(): finished!!
 juil. 11, 2016 7:30:19 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
 INFOS: Eclipsito platform is shut down.
+INFOS: [GanttOptions] save(): finished!!
+juil. 11, 2016 7:30:19 PM org.bardsoftware.impl.eclipsito.BootImpl shutdown
+INFOS: Eclipsito platform is shut down...................................
